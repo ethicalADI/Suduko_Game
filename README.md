@@ -1,1 +1,1 @@
-# Suduko_Game
+# sudoku-game
